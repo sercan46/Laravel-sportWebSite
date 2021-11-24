@@ -1,5 +1,3 @@
-# Laravel-sportWebSite
-## Projenin Amacı
+# Sport Web Site
 
-PHP Laravel Framework'ü ve MySql kullanarak geliştirdiğim canlıda olan web sitem. 
-Site URL:https://sportdid.com/
+My sports website that I developed using Laravel and MySql. I am entering content from the admin panel of the site. I show the pages that I have categorized according to the content to the users.
